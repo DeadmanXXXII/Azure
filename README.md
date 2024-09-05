@@ -1,6 +1,6 @@
 # Azure
 
-Certainly! Here is a comprehensive list of Azure CLI commands, organized by their functionality.
+Here is a comprehensive list of Azure CLI commands, organized by their functionality.
 
 # Azure CLI Commands
 
